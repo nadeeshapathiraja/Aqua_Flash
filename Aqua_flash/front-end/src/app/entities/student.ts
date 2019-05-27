@@ -36,7 +36,7 @@ export class Student {
     }
 
     public getPhone(): string {
-        return this.studentPhone;
+        return this.studentCellPhone;
     }
 
     public getEmail(): string {
@@ -69,7 +69,7 @@ export class Student {
     }
 
     public setPhone(phone: string) {
-        this.studentPhone = phone;
+        this.studentCellPhone = phone;
     }
 
     public setEmail(email: string) {

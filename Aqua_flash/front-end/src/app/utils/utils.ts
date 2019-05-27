@@ -25,7 +25,7 @@ export class Utils {
         student.studentFname = dataStudent.studentFname;
         student.studentLname = dataStudent.studentLname;
         student.studentAddress = dataStudent.studentAddress;
-        student.studentPhone = dataStudent.studentPhone;
+        student.studentCellPhone = dataStudent.studentPhone;
         student.studentEmail = dataStudent.studentEmail;
         student.studentImgLink = dataStudent.studentImgLink;
         student.studentDescription = dataStudent.studentDescription;
